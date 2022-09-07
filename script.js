@@ -20,4 +20,5 @@ function setLanguage() {
     }
 }
 
+//Run the function after the page is loaded to set the text in English
 setLanguage();

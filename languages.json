@@ -1,0 +1,20 @@
+{
+    "en": {
+        "languageDirection": "ltr",
+        "page-title": "Page",
+        "title": "This is a title",
+        "content": "This is content"
+    },
+    "ar": {
+        "languageDirection": "rtl",
+        "page-title": "صفحة",
+        "title": "هذا عنوان",
+        "content": "هذا محتوي"
+    },
+    "de": {
+        "languageDirection": "ltr",
+        "page-title": "Buchseite",
+        "title": "Dies ist ein Titel",
+        "content": "Das ist Inhalt"
+    }
+}

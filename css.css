@@ -1,0 +1,8 @@
+html {
+    direction: ltr;
+}
+
+#languages {
+    display: block;
+    margin: auto;
+}

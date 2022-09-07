@@ -1,8 +1,19 @@
 html {
     direction: ltr;
+    font-family: cursive, Arial, sans-serif;
 }
 
 #languages {
     display: block;
     margin: auto;
+    font-size: 20px;
+}
+
+#title {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#content {
+    font-size: 20px;
 }
